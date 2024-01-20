@@ -37,10 +37,4 @@ Si encuentras útiles los recursos y las enseñanzas de este repositorio, consid
 
 Sigueme en me redes sociales:
 
-<a href="https://www.instagram.com/hernanramirez.dev/">
-  <img src="https://github.com/hernanramirez/facil_con_python/blob/main/images/ig.png" width="40" />
-</a>
-
-<a href="https://www.instagram.com/hernanramirez.dev/">
-  <img src="https://github.com/hernanramirez/facil_con_python/blob/main/images/x.png" width="40" />
-</a>
+<a href="https://www.instagram.com/hernanramirez.dev/"><img src="https://github.com/hernanramirez/facil_con_python/blob/main/images/ig.png" width="40" /></a><a href="https://www.instagram.com/hernanramirez.dev/"><img src="https://github.com/hernanramirez/facil_con_python/blob/main/images/x.png" width="40" /></a>
