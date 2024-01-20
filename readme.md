@@ -37,7 +37,7 @@ Si encuentras útiles los recursos y las enseñanzas de este repositorio, consid
 
 Sigueme en me redes sociales:
 
-[![Instagram|40x40](https://github.com/hernanramirez/facil_con_python/blob/main/images/ig.png)](https://www.instagram.com/hernanramirez.dev/)[![X|40x40](https://github.com/hernanramirez/facil_con_python/blob/main/images/x.png)](https://x.com/hernanramirez)
+[![Instagram](../images/ig.png)](https://www.instagram.com/hernanramirez.dev/){width=40px}[![X](https://github.com/hernanramirez/facil_con_python/blob/main/images/x.png)](https://x.com/hernanramirez)
 
 
 
