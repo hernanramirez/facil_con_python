@@ -37,7 +37,7 @@ Si encuentras útiles los recursos y las enseñanzas de este repositorio, consid
 
 Sigueme en me redes sociales:
 
-[![Instagram](https://i.imgur.com/wWzX9uB.png)](https://www.instagram.com/hernanramirez.dev/) y [![X](https://i.imgur.com/X7B0yNf.png)](https://x.com/hernanramirez)
+[![Instagram](./images/ig.jpeg)](https://www.instagram.com/hernanramirez.dev/) y [![X](./images/x.jpg)](https://x.com/hernanramirez)
 
 
 
