@@ -10,7 +10,7 @@ Conda es una herramienta muy útil que te permite gestionar ambientes virtuales 
 
 2. Ejecuta el siguiente comando para crear un nuevo ambiente virtual con Conda:
 
-   ````bash
+   ```bash
    conda create --name mi_ambiente_virtual
    ```
 
@@ -18,7 +18,7 @@ Conda es una herramienta muy útil que te permite gestionar ambientes virtuales 
 
 3. Una vez que se haya creado el ambiente virtual, activa el ambiente ejecutando el siguiente comando:
 
-   ````bash
+   ```bash
    conda activate mi_ambiente_virtual
    ```
 
@@ -28,7 +28,7 @@ Conda es una herramienta muy útil que te permite gestionar ambientes virtuales 
 
 5. Cuando hayas terminado de trabajar en tu ambiente virtual, puedes desactivarlo ejecutando el siguiente comando:
 
-   ````bash
+   ```bash
    conda deactivate
    ```
 
@@ -42,7 +42,7 @@ Python también incluye una herramienta llamada venv, que te permite crear ambie
 
 2. Ejecuta el siguiente comando para crear un nuevo ambiente virtual con venv:
 
-   ````bash
+   ```bash
    python -m venv mi_ambiente_virtual
    ```
 
@@ -68,7 +68,7 @@ Python también incluye una herramienta llamada venv, que te permite crear ambie
 
 5. Cuando hayas terminado de trabajar en tu ambiente virtual, puedes desactivarlo ejecutando el siguiente comando:
 
-   ````bash
+   ```bash
    deactivate
    ```
 
