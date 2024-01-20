@@ -4,7 +4,9 @@ En este documento, te explicaremos de manera sencilla cómo crear un ambiente vi
 
 ## Creando un Ambiente Virtual con Conda
 
-Conda es una herramienta muy útil que te permite gestionar ambientes virtuales y paquetes en Python de manera sencilla.
+Conda es una herramienta muy útil que permite gestionar ambientes virtuales y paquetes en Python de manera sencilla. Puedes descargar e instalar Conda desde el [portal oficial de Conda](https://conda.io/projects/conda/en/latest/index.html).
+
+A continuación, se muestra cómo crear y utilizar un ambiente virtual con Conda:
 
 1. Abre la terminal o línea de comandos en tu computadora.
 
@@ -16,7 +18,7 @@ Conda es una herramienta muy útil que te permite gestionar ambientes virtuales 
 
    Puedes elegir cualquier nombre para tu ambiente virtual, por ejemplo, "mi_ambiente_virtual".
 
-3. Una vez que se haya creado el ambiente virtual, activa el ambiente ejecutando el siguiente comando:
+3. Una vez que se haya creado el ambiente virtual, actívalo ejecutando el siguiente comando:
 
    ```bash
    conda activate mi_ambiente_virtual
