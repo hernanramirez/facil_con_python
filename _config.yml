@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: HernanRamirez's homepage
-description: Mas fácil con Python
+title: Mas fácil con Python
+description: Scripts sencillos realizados con Python
 plugins:
   - jekyll-relative-links
   - jemoji
